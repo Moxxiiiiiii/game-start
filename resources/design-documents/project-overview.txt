@@ -1,0 +1,11 @@
+Goals of this project:
+The main goals of this project are to complete a functional rpg complete with these systems:
+    - Character creation
+    - Character stats including:
+        > XP, Lust, HP, Shield, Accuracy, Strength, Agility
+    - A complete town to explore with at least 3 locations to visit.
+    - A narritive with choices that affect how the story interacts with the player
+    - A way of saving choices, stats and changes to a database to be called upon.
+        > This includes saving in the moment changes as well as Saving/Loading the game.
+    - A day/night cycle and calendar
+    - A basic UI that shows the character's profile, stats, time/date, save/load, context and choices.
