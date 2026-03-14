@@ -1,0 +1,110 @@
+> Choose your {player-name}
+    > Input box
+
+> Choose your starting {player-race}
+    - Felynx || A cat like race of humanoids, sporting fuzzy ears and human-like skin. Felynx's are typically short and flexible often found with tails as well as barbed pricks (if they have any).
+    They have hair on top of their fur atop their head much like a humans along with humanoid hands - however their lower paws are more feline-esque allowing for increased agility and their eyes are cat like
+    as you'd expect.
+    - Human || Straightforward as they come, humans are average in height, abilities and tendencies.
+    - Slyme || A gooey race of people known for their voluptuous, shifting bodies and high libido. They can be almost any size, and feed off of the essence of other creatures.
+    - Vulpine || A sly, fox like race! Fox kin are known for their sharp wit and cunning. Their body's sport fluffy ears and even fluffier tails, and those with members find themselves with large knots.
+    - Equine || A large, bulky horse-like race. Endowed and blessed in every way, they are known to be gentle in society today despite their impressive assets and constitution.
+
+> Choose your {player-height}
+    - Felynx 4' to 5'
+    - Human 5' to 6'
+    - Slyme 3' to 7'
+    - Vulpine 4' to 6'
+    - Equine 6' to 7'
+
+> Choose your {player-stature}
+    > Human, Felynx, Vulpine,
+         - Frail
+         - Lithe
+         - Average
+         - Large Muscle
+         - Thick-set
+    > Equine
+        - Average
+        - Large Muscle
+        - Thick Set
+    > Slyme
+        - Bubbly
+
+> Choose your {player-skin-color}
+    > Human, Felynx, Vulpine, Equine
+        - Light
+        - Tanned
+        - Dark
+        - Ebony
+    > Slyme
+        - Green
+        - Blue
+        - Red
+        - Pink
+        - Yellow
+        - Orange
+
+> Choose your {player-eye-color}
+    > Brown
+    > Blue
+    > Gold
+    > Green
+    > Purple
+    > Red
+    > Black
+
+> Choose your {player-hair-color} || Slyme exempt, use {player-skin-color}
+    > Brown
+    > Black
+    > Aubern
+    > Red
+    > Orange
+    > Blonde
+    > Silver
+    > White
+
+> Choose your {player-hair-length}
+    > Short
+    > Medium
+    > Long
+
+> {player-dick-size} (if any)
+    > Human, Felynx, Vulpine, Slyme
+        - None
+        - 3 inch
+        - 4 inch
+        - 5 inch
+        - 6 inch
+        - 7 inch
+    > Equine
+        - None
+        - 6 inch
+        - 7 inch
+        - 8 inch
+        - 9 inch
+        - 10 inch
+
+> {player-tits} (if any)
+    > Flat
+    > A-Cup
+    > B-Cup
+    > C-Cup
+    > D-Cup
+    > E-Cup
+
+> {player-gender}
+    > Male
+    > Female
+
+> Finishing Dialogue
+    > Felynx
+        - You run your fingers through your {player-hair-color) hair and past your fuzzy ears, {player-hair-color} tail swishing just behind you in your reflection as you stare into your narrow pupils in the mirror. Your slitted eyes are a lovely shade of {player-eye colour} and you admire your {player-stature} figure briefly - eyes particularly trailing over your (if none: quim || else {player-dick-size} cock). Your {player-tits} suit your chest nicely, accomodating the rest of your figure.
+    > Human
+        - You run your fingers through your {player-hair-color) hair, staring into your {player-eye-color} eyes, tired as they are. You take a moment to admire your {player-stature} frame, eyes particularly trailing over your (if none: quim || else {player-dick-size} cock). Your {player-tits} suit your chest nicely, accomodating the rest of your figure.
+    > Slyme
+        - You stretch after you disrobe, your gelatenous frame bouncing in your reflection. Your bubbly and slick body attracts the eye no matter where it looks. Your {player-skin-color} candy like skin matches your... Hair? Your {player-hair-length} hair is the same sweet bouncy texture as the rest of you, and your {player-stature} figure catches your eye, particularly around your {player-tits} chest and your (if none: quim || if dick: {player-dick-size} cock) - the gooey texture prized by most of the galaxy.
+    > Vulpine
+        - The hairs on your fluffy tail and ears stand on end as you disrobe, the cool air tracing along your skin. They're the same color as your {player-hair-color} hair. You stare into your {player-eye-color} eyes, reflecting their tiredness back at you. You take a moment to admire your {player-stature} frame, eyes particularly trailing over your (if none: quim || else {player-dick-size} cock). Your {player-tits} suit your chest nicely, accomodating the rest of your figure.
+    > Equine
+        - Your large frame takes up the majority of the reflection, and you admire your figure top to bottom, eyes glancing over your {player-tits-size} chest and down between your legs sports a (if none: gorgeous quim || if dick: large {player-dick-size} cock intimidatingly hanging right where it belongs). Your eyes trail back up, catching your tired {player-eye-color} eyes in your reflection, your {player-hair-size + player-hair-color} hair sits neatly atop your head.

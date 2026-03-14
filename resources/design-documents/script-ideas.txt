@@ -1,0 +1,8 @@
+[Intro]
+
+The sun rises, it's rays of light beaming through the clear glass window hanging just above your bed. It's round, with no visible bars or decorations between - set within a white metallic wall.
+Your room is decorated fairly plainly, having only been adopted here a month ago by your new caretaker. Your head is too foggy to think much of it right now, so you pick yourself up from your bed and head towards
+the bathroom. Doors open and shut automatically as you approach. Despite being made of well varnished wood, you can barely hear them open and shut on their magnetic tracks - leaving only your footsteps populating
+the wooden hallway and echoey bathroom as head on your way. You disrobe sluggishly, getting a good look of yourself in the mirror:
+
+> Create Character (see plan)
