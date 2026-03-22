@@ -41,24 +41,36 @@ body {
 /* This is where we style the portrait and info blocks */
 
 .portrait {
-    height: 28%;
+    height: 39%;
     background-color: #FFBFFC;
+    border: solid 3px black;
+    border-radius: 3px;
 }
 
 .info-block {
-    height: 68%;
-    background-color: #E2BFFF;
-
+    height: 60%;
+    background-color: #BFFFC2;
+    border: solid 3px black;
+    border-radius: 3px;
 }
 
 .date-time-block {
     height: 10%;
     background-color: #BFFCFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 3px solid black;
 }
 
 .stats-block {
     height: 80%;
     background-color: #BFFFC2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .save-load-block {
@@ -71,11 +83,39 @@ body {
 #save-button {
     background-color: #EDEDED;
     width: 50%;
+    border: 3px solid black;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 200ms;
+}
+
+#save-button:hover {
+    background-color: #A3FF9C;
+}
+
+#save-button:active {
+    background-color: #216819;
 }
 
 #load-button {
-    background-color: #1A1A1A;
+    background-color: #EDEDED;
     width: 50%;
+    border: 3px solid black;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 200ms;
+}
+
+#load-button:hover {
+    background-color: #A3FF9C;
+}
+
+#load-button:active {
+    background-color: #216819;
 }
 
 /* This is where we define style the context and input blocks */
@@ -107,7 +147,18 @@ body {
     height: 46%;
 }
 
-.choice1, .choice2, .choice3, .choice4, .choice5, .choice6, .choice7, .choice8 {
+.choice {
     width: 22%;
+    background-color: #EDEDED;
+    border: 3px solid black;
+    border-radius: 3px;
+    transition: 200ms;
+}
+
+.choice:hover {
     background-color: #A3FF9C;
+}
+
+.choice:active {
+    background-color: #216819;
 }
