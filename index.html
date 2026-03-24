@@ -33,11 +33,20 @@
 
     <!-- Right side, context and player input -->
     <div class="right-side">
-        <div class="context-box"></div>
+        <div class="context-box">
+            <div class="context-box-active">
+                <p id="context-box-text">
+                    Welcome to Tarin! <br><br>
+                    Tarin is a world set far further into the future than our own. It's a world filled
+                    with excitement, danger, love, lust and more! To begin your journey, all you need to
+                    do is use the menu below.
+                </p>
+            </div>
+        </div>
         <div class="choice-box">
             <div class="top-choices">
-                <div class="choice" id="choice1"></div>
-                <div class="choice" id="choice2"></div>
+                <div class="choice" id="choice1">New Game</div>
+                <div class="choice" id="choice2">Load Game</div>
                 <div class="choice" id="choice3"></div>
                 <div class="choice" id="choice4"></div>
             </div>
@@ -50,6 +59,6 @@
         </div>
     </div>
     </div>
-    
+    <script src="src/loading-page.js"></script>
 </body>
 </html>

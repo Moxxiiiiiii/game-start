@@ -41,14 +41,15 @@ body {
 /* This is where we style the portrait and info blocks */
 
 .portrait {
-    height: 39%;
+    flex: 0 0 1;
+    height: 30%;
     background-color: #FFBFFC;
     border: solid 3px black;
     border-radius: 3px;
 }
 
 .info-block {
-    height: 60%;
+    height: 68%;
     background-color: #BFFFC2;
     border: solid 3px black;
     border-radius: 3px;
@@ -121,8 +122,21 @@ body {
 /* This is where we define style the context and input blocks */
 
 .context-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 63%;
     background-color: #9CD4FF;
+}
+
+.context-box-active {
+    height: 98%;
+    width: 98%;
+    background-color: #EDEDED;
+}
+
+.context-box-active p {
+    margin: 4px 4px;
 }
 
 .choice-box {
@@ -153,6 +167,9 @@ body {
     border: 3px solid black;
     border-radius: 3px;
     transition: 200ms;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .choice:hover {
